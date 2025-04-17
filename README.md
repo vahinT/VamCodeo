@@ -1,1 +1,1 @@
-This is a basic IDE (integrated development enviroment) made by vahin vamsidhar masavarapu. it is all made in python. install the latest release from https://github.com/vahinT/VamCodeo/Releases/. you can find older versions from the files section.
+This is a basic IDE (integrated development enviroment) made by vahin vamsidhar masavarapu. it is all made in python. install the latest release from https://github.com/vahinT/VamCodeo/releases/. you can find older versions from the files section.
